@@ -3,7 +3,7 @@ require __DIR__.'/auth.php';
 require __DIR__.'/config.php';
 
 $OWNER  = 'midoalrawi';
-$REPO   = 'lic-manager';
+$REPO   = 'midocss';
 $BRANCH = 'main';
 
 $root = __DIR__;
